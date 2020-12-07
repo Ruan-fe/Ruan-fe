@@ -1,3 +1,5 @@
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ruan-felipe-totti-do-amaral-b15411183/)
+
 ### Hi there i'm Ruan 👋
 
 <!--
@@ -21,4 +23,3 @@ Here are some ideas to get you started:
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Ruan-fe)
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ruan-felipe-totti-do-amaral-b15411183/)
