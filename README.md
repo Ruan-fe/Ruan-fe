@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<!--
-**Ruan-fe/Ruan-fe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+**Ruan-fe/Ruan-fe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on TOTVS.
+- 🌱 I’m currently learning Spring Boot and Angular.
+- 🤝 I’m looking to collaborate on Spring Boot and Angular projects. 
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Ruan-fe)
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ruan-felipe-totti-do-amaral-b15411183/)
