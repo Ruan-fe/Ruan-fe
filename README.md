@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on TOTVS.
+- 🔭 I’m currently working with Spring Boot and Angular.
 - 🌱 I’m currently learning Spring Boot and Angular.
-- 🤝 I’m looking to collaborate on Spring Boot and Angular projects. 
+- 🤝 I’m looking to collaborate on Spring Boot projects. 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Ruan-fe)
 
